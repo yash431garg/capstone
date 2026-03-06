@@ -15,7 +15,7 @@ capstone = "ErJRFMPZdb32PbxopbmhmvMwxFudJD23XbfMdF8Z27AW"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
